@@ -176,4 +176,4 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 ## Contact
 
-For any questions or issues, please feel free to reach out at [your email/contact info].
+For any questions or issues, please feel free to reach out at khushang20@gmail.com.
