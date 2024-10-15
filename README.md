@@ -1,8 +1,8 @@
-# Satelite_Image_Classification
+# Image_Classification
 
 
 
-This repository provides a PyTorch-based solution for the Satelite Image Classification Challenge, which involves classifying natural scene images into multiple categories. The notebook implements a deep learning model using Convolutional Neural Networks (CNN) to solve the problem efficiently.
+This repository provides a PyTorch-based solution for the Image Classification Challenge, which involves classifying natural scene images into multiple categories. The notebook implements a deep learning model using Convolutional Neural Networks (CNN) to solve the problem efficiently.
 
 ## Project Structure
 
