@@ -80,7 +80,7 @@ data/
 │   ├── mountain/
 │   ├── sea/
 │   └── street/
-└── validation/                   # (if applicable)
+└── validation/                
 ```
 
 The dataset contains high-quality images that are classified into six categories. Ensure the dataset is downloaded and placed in the `data/` folder before running the notebook.
